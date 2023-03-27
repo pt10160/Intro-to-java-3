@@ -1,0 +1,25 @@
+!1514;s
+J
+SAU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SCU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+S+U0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SJU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from https://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SXU0
+SOU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SyU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!2600;d
+[\012  grasp [\012   legendy -42.58\012   legendx -59.0\012   version 1\012   winflags 3\012   eheight 1080\012   ewidth 960\012   height 1080\012   width 960\012   wbp 0\012   initlayout 0\012   yoffs 0.0\012   xoffs 2.8421709430404007E-14\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 1\012   visflags 118423807\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    fields "descriptions\\011Ljava/util/List;\\011\\0112\\011\\011Ljava/util/List<Ljava/lang/String;>;\\011PlainSequences\011sequences\\011Ljava/util/List;\\011\\0112\\011\\011Ljava/util/List<Ljava/lang/String;>;\\011PlainSequences\011PlainSequences\\011()V\\011c\\0111\\011\\011\\011PlainSequences\011formatInGroups\\011(III)Ljava/lang/String;\\011\\0111\\011\\011\\011PlainSequences\011getDescriptions\\011()Ljava/util/List;\\011\\0111\\011\\011()Ljava/util/List<Ljava/lang/String;>;\\011PlainSequences\011getSequences\\011()Ljava/util/List;\\011\\0111\\011\\011()Ljava/util/List<Ljava/lang/String;>;\\011PlainSequences\011isValidSequence\\011(I)Z\\011\\0111\\011\\011\\011PlainSequences\011readSequences\\011(Ljava/lang/String;)V\\011\\0111\\011\\011\\011PlainSequences\011toString\\011()Ljava/lang/String;\\011\\0111\\011\\011\\011PlainSequences"\012    condition 0\012    access2 0\012    access 2228257\012    classname "PlainSequences"\012    fromclassfiledate 1625848321661\012    fromclassfilename "%\011PlainSequences.class"\012    fromfilename "%\011PlainSequences.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x -118.0\012     y 0.0\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    fields "formatInGroups\\011(III)Ljava/lang/String;\\011\\0111025\\011\\011\\011Sequences\011getDescriptions\\011()Ljava/util/List;\\011\\0111025\\011\\011()Ljava/util/List<Ljava/lang/String;>;\\011Sequences\011getSequences\\011()Ljava/util/List;\\011\\0111025\\011\\011()Ljava/util/List<Ljava/lang/String;>;\\011Sequences\011isValidSequence\\011(I)Z\\011\\0111025\\011\\011\\011Sequences\011readSequences\\011(Ljava/lang/String;)V\\011\\0111025\\011\\011\\011Sequences"\012    condition 0\012    access2 0\012    access 2229760\012    classname "Sequences"\012    fromclassfiledate 1625841555796\012    fromclassfilename "%\011Sequences.class"\012    fromfilename "%\011Sequences.java"\012   ]\012   id 1\012   graphics [\012    center [\012     x 0.0\012     y 0.0\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  edge [\012   ClassInfo [\012    type 1\012   ]\012   source 1\012   target 0\012  ]\012 ]!45;g
+%\011Sequences.java
+%\011PlainSequences.java
+!45;f
+%\011Sequences.java
+%\011PlainSequences.java
+!29;l
+%\011PlainSequencesTest.java
+!151;t
+jgrJUnit0xr	%\011PlainSequencesTest.java	1625848824038:P%\011PlainSequences.java	%\011PlainSequences.java	1625848824038:P%\011PlainSequencesTest.java	
